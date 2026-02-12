@@ -33,16 +33,8 @@ A modern, feature-rich web application for browsing and streaming movies online.
 ![Demo](demo-video.gif)
 *Interactive walkthrough of key features*
 
-## 🚀 Getting Started
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/numanbalik-web/MovieProject.git
-## 🙏 Acknowledgments
-
-Special thanks to **Udemig Academy** for their excellent training and mentorship in web development. Their comprehensive curriculum and hands-on approach have been instrumental in my growth as a developer.
+ 🙏 Special thanks to **UDEMIG ACADEMY** for their excellent training and mentorship in web development. Their comprehensive curriculum and hands-on approach have been instrumental in my growth as a developer.
 
 ---
 
@@ -52,4 +44,11 @@ Special thanks to **Udemig Academy** for their excellent training and mentorship
 
 💼 LinkedIn: https://www.linkedin.com/in/numan-balik-sverige
 💻 GitHub: https://github.com/numanbalik-web
+
+
+1. Clone the repository:
+```bash
+git clone https://github.com/numanbalik-web/MovieProject.git
+## 🙏 Acknowledgments
+
 
