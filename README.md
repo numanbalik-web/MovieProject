@@ -23,18 +23,22 @@ A modern, feature-rich web application for browsing and streaming movies online.
 ## 📸 Screenshots
 
 ![Screenshot 1](screen1.png)
+
 *Main interface showcasing the movie browsing experience*
 
 ![Screenshot 2](screen2.png)
+
 *Responsive design demonstration*
 
 ## 🎥 Live Demo
 
 ![Demo](demo-video.gif)
+
 *Interactive walkthrough of key features*
 
 
- 🙏 Special thanks to **UDEMIG ACADEMY** for their excellent training and mentorship in web development. Their comprehensive curriculum and hands-on approach have been instrumental in my growth as a developer.
+ 🙏 Special thanks to **UDEMIG ACADEMY** for their excellent training and mentorship in web development. T
+ heir comprehensive curriculum and hands-on approach have been instrumental in my growth as a developer.
 
 ---
 
@@ -43,6 +47,7 @@ A modern, feature-rich web application for browsing and streaming movies online.
 *This is my 4th web development project - each one represents growth and learning in my journey as a developer.*
 
 💼 LinkedIn: https://www.linkedin.com/in/numan-balik-sverige
+
 💻 GitHub: https://github.com/numanbalik-web
 
 
