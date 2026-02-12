@@ -50,4 +50,6 @@ Special thanks to **Udemig Academy** for their excellent training and mentorship
 
 *This is my 4th web development project - each one represents growth and learning in my journey as a developer.*
 
+💼 LinkedIn: https://www.linkedin.com/in/numan-balik-sverige
+💻 GitHub: https://github.com/numanbalik-web
 
